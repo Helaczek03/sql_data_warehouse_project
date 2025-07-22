@@ -15,7 +15,7 @@ Parameters:
 Usage Example:
   exec bronze.load_bronze;
 ====================================================================================
-
+*/
 create or alter procedure bronze.load_bronze as
 begin
 	declare @start_time datetime, @end_time datetime,
