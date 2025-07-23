@@ -80,7 +80,7 @@ begin
 		print '----------------------'
 
 		print '--------------------------------';
-		print 'Loading CRM Tables';
+		print 'Loading ERP Tables';
 		print '--------------------------------';
 
 		set @start_time = getdate();
